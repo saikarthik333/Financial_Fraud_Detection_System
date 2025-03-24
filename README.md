@@ -1,0 +1,3 @@
+Financial Fraud Detection System Using Clustering and Anomaly Detection
+Overview
+This project implements a financial fraud detection system using unsupervised machine learning techniques. By leveraging clustering algorithms like K-means and DBSCAN, the system identifies anomalous transactions that may indicate fraudulent activity. Dimensionality reduction using Principal Component Analysis (PCA) enhances clustering performance and visualization, while data processing is efficiently handled with NumPy and Pandas. The project is evaluated using metrics such as the Silhouette Score (0.4718) and Davies-Bouldin Index (0.8899), and visual insights are generated with Matplotlib and Seaborn.
