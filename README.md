@@ -1,4 +1,4 @@
-# 💳 Financial Fraud Detection Using Clustering & Anomaly Detection
+# 💳 Financial Fraud Detection System Using Clustering & Anomaly Detection
 
 This project implements an unsupervised learning approach to detect anomalies in financial transactions. Using **K-Means** and **DBSCAN** clustering algorithms combined with **PCA** for dimensionality reduction, the system identifies unusual behavior that could represent fraudulent activity.
 
